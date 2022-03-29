@@ -1,6 +1,5 @@
 
 import os
-from tkinter import Variable
 from dotenv import load_dotenv
 
 
