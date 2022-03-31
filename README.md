@@ -11,7 +11,7 @@
 
         or
 
-        `pip install -r requeriments.txt`
+        `pip install -r requirements.txt`
 
 2- Configuraction
 
