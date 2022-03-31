@@ -27,5 +27,10 @@
 
 # Screenshots
 
+GRAFICADOR
+
 <img src="./screenshots/graphy.png">
+
+MINIMOS
+
 <img src="./screenshots/mini.png">
